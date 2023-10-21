@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import WordCounter from './Components/countWord';
+import WordCounter from './countWord';
 function App() {
   return (
     <div className="App">
